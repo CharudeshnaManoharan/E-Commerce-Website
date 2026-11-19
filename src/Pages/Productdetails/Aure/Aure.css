@@ -1,0 +1,36 @@
+.aure-wrapper h1{
+   margin-left:30px;
+   color:#eea760;
+
+}
+.aure{
+    display:flex;
+    gap:200px;
+    align-items:flex-start;
+    margin-left:150px;
+    margin-top:50px
+}
+.aure-item{
+    display:flex;
+    flex-direction:column;
+    align-items:cener;
+}
+.aure-item img{
+    width:200px;
+    height:280px;
+    border-radius:50px;
+    object-fit:cover;
+    margin-top:10px;
+}
+.buybutton{
+    margin-top:20px;
+    background-color:orange;
+    border:1px solid black;
+    padding:10px 20px;
+    width:fit-content;
+    border-radius:20px;
+    cursor:pointer;
+    font-weight:bold;
+    margin-left:50px;
+    
+}

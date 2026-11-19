@@ -1,0 +1,6 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow: hidden;   /* idhu dhaan outer/body scrollbar ah block pannum */
+}
