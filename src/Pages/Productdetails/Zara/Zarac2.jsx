@@ -1,5 +1,5 @@
 import "./Zarac2.css";
-import zara2 from "../../../assets/ZARA2.png";
+import zara2 from "../../../assets/ZARA2.PNG";
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { ArrowLeft } from "lucide-react";
