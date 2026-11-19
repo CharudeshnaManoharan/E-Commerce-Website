@@ -1,4 +1,4 @@
-import "./HMDetails.css";
+import "./HMdetails.css";
 import { useNavigate } from "react-router-dom";
 import hm1Image from "../../../assets/hm.png";
 import hm2Image from "../../../assets/hm2.png";
